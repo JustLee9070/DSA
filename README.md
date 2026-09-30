@@ -6,6 +6,7 @@ This repository contains problems and implementations that I solve while buildin
 
 ## Topics
 
+* Arrays
 * Basics
 * Problems
 * Hashing
@@ -26,6 +27,7 @@ As I progress, more DSA topics and problems will be added to this repository.
 
 ```text
 DSA/
+├── Arrays/
 ├── Basics/
 ├── Problems/
 ├── Hashing/
